@@ -1,3 +1,6 @@
 [submodule "open_dht"]
 	path = open_dht
 	url = https://github.com/stoopkid420/opendht
+[submodule "libmarpa"]
+	path = libmarpa
+	url = https://github.com/lemon-operating-language/libmarpa-dist
