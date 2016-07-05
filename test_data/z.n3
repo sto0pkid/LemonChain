@@ -1,8 +1,0 @@
-#cwm  z.n3  --reify --rdf > z.rdf
-
-
-[ a :banana ].
-
-
-{?x a :banana.} => {?x a :fruit.}.
-
